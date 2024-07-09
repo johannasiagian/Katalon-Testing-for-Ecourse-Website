@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_You</name>
+   <tag></tag>
+   <elementGuidId>48ceecaf-1c86-4c10-9df7-d713eccbe485</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='view-overview-messages-target-662fa6fce2169662fa6fc5eb8119']/div[2]/a[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;11322057 Citra Grace Asri Nainggolan You: ☺️&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>60233e93-37e7-48ad-a01e-aefeba57c3db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>m-0 font-weight-light text-truncate last-message</value>
+      <webElementGuid>82f88185-4727-46bc-a11b-1e414c668a33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-region</name>
+      <type>Main</type>
+      <value>last-message</value>
+      <webElementGuid>89c564eb-7ace-4f29-a56b-e546f91a82a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    You:
+                ☺️
+            </value>
+      <webElementGuid>cf2fb483-601e-4e20-b86f-7188708c7bd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;view-overview-messages-target-662fa6fce2169662fa6fc5eb8119&quot;)/div[@class=&quot;list-group&quot;]/a[@class=&quot;py-0 px-2 d-flex list-group-item list-group-item-action align-items-center&quot;]/div[@class=&quot;w-100 text-truncate ml-2 my-2&quot;]/p[@class=&quot;m-0 font-weight-light text-truncate last-message&quot;]</value>
+      <webElementGuid>b0583f3a-ef1e-4fcb-b064-bc1c512a06b9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='view-overview-messages-target-662fa6fce2169662fa6fc5eb8119']/div[2]/a[2]/div/p</value>
+      <webElementGuid>d7ead8c3-39c6-4eb3-b46a-98c9933acdbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='halo'])[1]/following::p[1]</value>
+      <webElementGuid>22dab3cc-abc3-45a7-9639-898a73b048e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='nan'])[1]/preceding::p[1]</value>
+      <webElementGuid>34ba7ca8-3112-43eb-8c54-a30d4cbc4978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div/p</value>
+      <webElementGuid>6b7586e0-6678-48a0-ae34-ff01d3c731d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = '
+                    You:
+                ☺️
+            ' or . = '
+                    You:
+                ☺️
+            ')]</value>
+      <webElementGuid>98304f50-d02b-42be-99c0-157bb6ee7f6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

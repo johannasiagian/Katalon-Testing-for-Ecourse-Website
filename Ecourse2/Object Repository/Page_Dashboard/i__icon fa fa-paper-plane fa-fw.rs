@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i__icon fa fa-paper-plane fa-fw</name>
+   <tag></tag>
+   <elementGuidId>c4d2af7a-6f04-46aa-be44-812df76420a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yui_3_17_2_1_1714398541634_195']/div/button[2]/span/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.icon.fa.fa-paper-plane.fa-fw</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Send message&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>616ce51f-c0ef-4cf2-8b28-b9f172567407</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon fa fa-paper-plane fa-fw </value>
+      <webElementGuid>16f6debd-817d-4bbe-9a8e-ddc8c49ab8e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1714398541634_195&quot;)/div[@class=&quot;position-relative d-flex flex-column&quot;]/button[@class=&quot;btn btn-link btn-icon icon-size-3 ml-1 mt-auto&quot;]/span[1]/i[@class=&quot;icon fa fa-paper-plane fa-fw&quot;]</value>
+      <webElementGuid>3e7bc674-7c35-411a-ac41-ae7747e65f7e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1714398541634_195']/div/button[2]/span/i</value>
+      <webElementGuid>07c74d5f-9139-4fb9-a4ff-6d869c21c8db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span/i</value>
+      <webElementGuid>3a5cb1ea-9260-4747-887e-187914f784df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

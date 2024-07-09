@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_2</name>
+   <tag></tag>
+   <elementGuidId>03ea596f-881d-4f2a-af26-d97dfd623110</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='message-drawer-toggle-662fa6fcdf764662fa6fc5eb819']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#message-drawer-toggle-662fa6fcdf764662fa6fc5eb819</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Toggle messaging drawer There are 2 unread conversations&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f24df272-4a59-488c-976c-bb86dea3ba14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>message-drawer-toggle-662fa6fcdf764662fa6fc5eb819</value>
+      <webElementGuid>6b361997-6c53-4cb0-becf-982dcbde99ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link d-inline-block popover-region-toggle position-relative</value>
+      <webElementGuid>109f74b6-9701-42f0-abd4-e2955daf78d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>b31eda08-d5d2-4e61-9508-f3b1298aa061</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>5e2b7e46-4315-4b86-a99c-d76e91255446</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        
+        2
+    </value>
+      <webElementGuid>a8b0d050-b496-4fd2-bd8d-248cb0b46e0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;message-drawer-toggle-662fa6fcdf764662fa6fc5eb819&quot;)</value>
+      <webElementGuid>f1259e49-5a13-4b97-8b82-667ff6bd3a9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='message-drawer-toggle-662fa6fcdf764662fa6fc5eb819']</value>
+      <webElementGuid>be9e003c-f382-41b3-a90a-d36efdca9736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='page-my-index']/nav/ul[2]/div[3]/a</value>
+      <webElementGuid>e4b61afd-e9d6-4932-b3c4-3e1587b37cf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='See all'])[1]/following::a[1]</value>
+      <webElementGuid>7fab313e-008e-4244-bf9f-1700b4c55354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have no notifications'])[1]/following::a[2]</value>
+      <webElementGuid>1cc426ff-1aad-4919-846d-a6f46cce6248</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/preceding::a[3]</value>
+      <webElementGuid>39086ce2-4d8d-4014-a75c-eb3efeb49f97</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profile'])[1]/preceding::a[4]</value>
+      <webElementGuid>963e8a78-75e3-4bc0-bde4-ef7706aa3dd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[2]</value>
+      <webElementGuid>38a9b4f9-5ec6-4ece-be0b-458729b594bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>d569b7d6-9ae1-4681-aeb0-372ae529dce8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'message-drawer-toggle-662fa6fcdf764662fa6fc5eb819' and @href = '#' and (text() = '
+        
+        2
+    ' or . = '
+        
+        2
+    ')]</value>
+      <webElementGuid>3e9374eb-5c25-4823-8b66-32373f269db7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
