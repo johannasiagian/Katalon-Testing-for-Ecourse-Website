@@ -1,0 +1,1 @@
+This repository contains automated test scripts developed using Katalon Studio for testing the functionality and performance of the Ecourse website. Katalon Studio offers a comprehensive testing platform that integrates test case design, execution, and management in a single environment, suitable for both web and mobile application testing.
